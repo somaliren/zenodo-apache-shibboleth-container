@@ -6,4 +6,4 @@
 	url = https://github.com/osct/invenio-github.git
 [submodule "zenodo"]
 	path = zenodo
-	url = https://github.com/osct/zenodo.git
+	url = https://github.com/somaliren/zenodo.git
